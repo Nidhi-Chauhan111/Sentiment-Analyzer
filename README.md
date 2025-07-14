@@ -16,12 +16,12 @@ This is a simple Machine Learning project that predicts whether a given product 
   - `Pandas`, `joblib`, etc.
 
  ## Project Structure
- -app.py #fronted using streamlit
- -product_reviews_final_data.csv #dataset used(worth 2565 rows; synthetic data*)
- -Project_ProdReview_Sentiment_Analysis.ipnyb #colab notebook
- -sentiment_model.pkl #Naive Bayes trained model
- -TFIDF_vectorizer.pkl #TFIDF vectorizer
- -README.md #project overview
+ - app.py #fronted using streamlit
+ - product_reviews_final_data.csv #dataset used(worth 2565 rows; synthetic data*)
+ - Project_ProdReview_Sentiment_Analysis.ipnyb #colab notebook
+ - sentiment_model.pkl #Naive Bayes trained model
+ - TFIDF_vectorizer.pkl #TFIDF vectorizer
+ - README.md #project overview
 
 ## How to run:
 -Install requirements: manually install
